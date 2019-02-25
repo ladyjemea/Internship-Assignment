@@ -1,0 +1,6 @@
+Task 1:
+Q1:The get methods are used for reading the private private fields name and yearBuilt. Any property without a get method is considered write only. Since we will want to know the name and the yearBuilt of the vessels, it is right to 
+use the get() method. The body of the get method must return a value of the property type.
+
+Q2: Every object in C# has a ToString method returning a string representation of the object. Overriding the ToString method helps present a default represenatation of the object. If the ToString method is not overridden, 
+then the default implementation will return your object name as : Namespace.ClassName

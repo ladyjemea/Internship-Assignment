@@ -1,0 +1,11 @@
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\obj\Debug\netcoreapp2.2\InternshipAssignment.csprojAssemblyReference.cache
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\obj\Debug\netcoreapp2.2\InternshipAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\obj\Debug\netcoreapp2.2\InternshipAssignment.AssemblyInfoInputs.cache
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\obj\Debug\netcoreapp2.2\InternshipAssignment.AssemblyInfo.cs
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\bin\Debug\netcoreapp2.2\InternshipAssignment.deps.json
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\bin\Debug\netcoreapp2.2\InternshipAssignment.runtimeconfig.json
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\bin\Debug\netcoreapp2.2\InternshipAssignment.runtimeconfig.dev.json
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\bin\Debug\netcoreapp2.2\InternshipAssignment.dll
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\bin\Debug\netcoreapp2.2\InternshipAssignment.pdb
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\obj\Debug\netcoreapp2.2\InternshipAssignment.dll
+C:\Users\lje043\source\repos\InternshipAssignment\InternshipAssignment\obj\Debug\netcoreapp2.2\InternshipAssignment.pdb

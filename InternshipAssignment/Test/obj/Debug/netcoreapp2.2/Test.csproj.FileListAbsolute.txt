@@ -1,0 +1,17 @@
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Test.deps.json
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.json
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Test.dll
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\Test.pdb
+C:\Users\lje043\source\repos\InternshipAssignment\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+C:\Users\lje043\source\repos\InternshipAssignment\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+C:\Users\lje043\source\repos\InternshipAssignment\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+C:\Users\lje043\source\repos\InternshipAssignment\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+C:\Users\lje043\source\repos\InternshipAssignment\Test\obj\Debug\netcoreapp2.2\Test.dll
+C:\Users\lje043\source\repos\InternshipAssignment\Test\obj\Debug\netcoreapp2.2\Test.pdb
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\InternshipAssignment.dll
+C:\Users\lje043\source\repos\InternshipAssignment\Test\bin\Debug\netcoreapp2.2\InternshipAssignment.pdb
+C:\Users\lje043\source\repos\InternshipAssignment\Test\obj\Debug\netcoreapp2.2\Test.csproj.CopyComplete
